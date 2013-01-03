@@ -1,0 +1,11 @@
+D:\我的文档\Visual Studio 2010\Projects\OfficeTools\PrintServerUI\bin\Release\PrintServerUI.exe
+D:\我的文档\Visual Studio 2010\Projects\OfficeTools\PrintServerUI\bin\Release\PrintServerUI.pdb
+D:\我的文档\Visual Studio 2010\Projects\OfficeTools\PrintServerUI\bin\Release\OfficeTools.dll
+D:\我的文档\Visual Studio 2010\Projects\OfficeTools\PrintServerUI\bin\Release\OfficeTools.pdb
+D:\我的文档\Visual Studio 2010\Projects\OfficeTools\PrintServerUI\obj\x86\Release\ResolveAssemblyReference.cache
+D:\我的文档\Visual Studio 2010\Projects\OfficeTools\PrintServerUI\obj\x86\Release\PrintServerUI.Form1.resources
+D:\我的文档\Visual Studio 2010\Projects\OfficeTools\PrintServerUI\obj\x86\Release\PrintServerUI.Properties.Resources.resources
+D:\我的文档\Visual Studio 2010\Projects\OfficeTools\PrintServerUI\obj\x86\Release\GenerateResource.read.1.tlog
+D:\我的文档\Visual Studio 2010\Projects\OfficeTools\PrintServerUI\obj\x86\Release\GenerateResource.write.1.tlog
+D:\我的文档\Visual Studio 2010\Projects\OfficeTools\PrintServerUI\obj\x86\Release\PrintServerUI.exe
+D:\我的文档\Visual Studio 2010\Projects\OfficeTools\PrintServerUI\obj\x86\Release\PrintServerUI.pdb

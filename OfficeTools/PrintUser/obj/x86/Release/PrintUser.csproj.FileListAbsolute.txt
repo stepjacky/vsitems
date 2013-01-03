@@ -1,0 +1,15 @@
+D:\我的文档\Visual Studio 2010\Projects\OfficeTools\PrintUser\bin\Release\PrintUser.exe
+D:\我的文档\Visual Studio 2010\Projects\OfficeTools\PrintUser\bin\Release\PrintUser.pdb
+D:\我的文档\Visual Studio 2010\Projects\OfficeTools\PrintUser\bin\Release\OfficeTools.dll
+D:\我的文档\Visual Studio 2010\Projects\OfficeTools\PrintUser\bin\Release\OfficeTools.pdb
+D:\我的文档\Visual Studio 2010\Projects\OfficeTools\PrintUser\obj\x86\Release\ResolveAssemblyReference.cache
+D:\我的文档\Visual Studio 2010\Projects\OfficeTools\PrintUser\obj\x86\Release\PrintUser.Form1.resources
+D:\我的文档\Visual Studio 2010\Projects\OfficeTools\PrintUser\obj\x86\Release\PrintUser.Properties.Resources.resources
+D:\我的文档\Visual Studio 2010\Projects\OfficeTools\PrintUser\obj\x86\Release\GenerateResource.read.1.tlog
+D:\我的文档\Visual Studio 2010\Projects\OfficeTools\PrintUser\obj\x86\Release\GenerateResource.write.1.tlog
+D:\我的文档\Visual Studio 2010\Projects\OfficeTools\PrintUser\obj\x86\Release\PrintUser.exe
+D:\我的文档\Visual Studio 2010\Projects\OfficeTools\PrintUser\obj\x86\Release\PrintUser.pdb
+D:\我的文档\Visual Studio 2010\Projects\OfficeTools\PrintUser\bin\Release\PrintUser.exe.manifest
+D:\我的文档\Visual Studio 2010\Projects\OfficeTools\PrintUser\bin\Release\PrintUser.application
+D:\我的文档\Visual Studio 2010\Projects\OfficeTools\PrintUser\obj\x86\Release\PrintUser.exe.manifest
+D:\我的文档\Visual Studio 2010\Projects\OfficeTools\PrintUser\obj\x86\Release\PrintUser.application
